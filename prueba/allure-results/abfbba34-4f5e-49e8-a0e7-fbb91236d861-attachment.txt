@@ -1,0 +1,11 @@
+Se superó el tiempo de espera del elemento en el DOM de la página. 
+ *Mensaje*: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='form-row'][1]//label[@class='btn btn-light'] (tried for 30 second(s) with 500 milliseconds interval) 
+ *Causa*: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='form-row'][1]//label[@class='btn btn-light']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'LAPTOP-MJUGMV72', ip: '10.8.49.68', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\Users\Nicolas\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a67aab30e9b4b2b5f8c98bce0b92836b
+*** Element info: {Using=xpath, value=//div[@class='form-row'][1]//label[@class='btn btn-light']} 

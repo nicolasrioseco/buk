@@ -1,0 +1,3 @@
+Ocurrio un error inesperado. 
+ Mensaje: Keys to send should be a not null CharSequence 
+ Causa:  

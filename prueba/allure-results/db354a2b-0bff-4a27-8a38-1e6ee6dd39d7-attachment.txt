@@ -1,0 +1,3 @@
+Ocurrio un error inesperado. 
+ Mensaje: Cannot invoke "String.contains(java.lang.CharSequence)" because "toEscape" is null 
+ Causa:  

@@ -1,0 +1,6 @@
+Ocurrio un error inesperado. 
+ Mensaje: No frame element found by name or id //iframe [@class='iframeClass']
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'LAPTOP-MJUGMV72', ip: '10.8.50.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: unknown 
+ Causa:  

@@ -1,0 +1,3 @@
+Ocurrio un error inesperado. 
+ Mensaje: No enum constant ar.com.lasegunda.paginas.GenericoPagina.TituloPaginas. Datos mínimos cotización  
+ Causa:  

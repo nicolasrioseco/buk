@@ -1,0 +1,7 @@
+No se encontrÃ³ el elemento en la pÃ¡gina con el locator especificado. 
+ *Mensaje*: Cannot locate option with text: DNI
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'LAPTOP-MJUGMV72', ip: '10.8.48.251', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: unknown 
+ *Causa*:  

@@ -1,0 +1,12 @@
+No se encontrÃ³ el elemento en la pÃ¡gina con el locator especificado. 
+ *Mensaje*: invalid selector: Unable to locate an element with the xpath expression xpath of the outer element  because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'xpath of the outer element ' is not a valid XPath expression.
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'LAPTOP-MJUGMV72', ip: '10.8.50.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\Nicolas\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58979}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f97709efbbd0fc88b6135a2b62c5da8f
+*** Element info: {Using=xpath, value=xpath of the outer element } 
+ *Causa*:  

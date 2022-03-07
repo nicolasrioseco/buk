@@ -1,0 +1,9 @@
+Ocurrio un error inesperado. 
+ Mensaje: element click intercepted: Element <iframe _ngcontent-crc-c59="" width="100%" frameborder="0" class="iframeClass" src="https://agro-lasegunda-dev.aon-cap.com/quotes/step1" style="" cd_frame_id_="d09ea23a3df6bbb29116cb15d3e7454f"></iframe> is not clickable at point (517, 178). Other element would receive the click: <div _ngcontent-crc-c64="" class="">...</div>
+  (Session info: chrome=94.0.4606.71)
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'LAPTOP-MJUGMV72', ip: '10.8.48.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\Nicolas\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:49421}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 029f0174af175e1429c0c47100c2348b 
+ Causa:  

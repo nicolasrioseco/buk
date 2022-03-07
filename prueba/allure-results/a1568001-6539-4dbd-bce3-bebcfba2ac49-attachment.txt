@@ -1,0 +1,9 @@
+Ocurrio un error inesperado. 
+ Mensaje: element click intercepted: Element <input _ngcontent-wnf-c57="" type="radio" id="option1" autocomplete="off" formcontrolname="lastYearSameCrop" class="ng-pristine ng-valid ng-touched"> is not clickable at point (109, 251). Other element would receive the click: <label _ngcontent-wnf-c57="" class="btn btn-light">...</label>
+  (Session info: chrome=94.0.4606.71)
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'LAPTOP-MJUGMV72', ip: '10.8.48.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\Nicolas\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:51153}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d091ed6d3f7236f1410d5862fca901c1 
+ Causa:  
